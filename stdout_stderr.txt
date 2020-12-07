@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x  2 ubuntu ubuntu 4096 Nov 20 16:41 .
+drwxr-xr-x 23 ubuntu ubuntu 4096 Nov 20 16:41 ..
+-rwxrwxr-x  1 ubuntu ubuntu   89 Nov 20 15:58 breakloop.sh
+-rwxrwxr-x  1 ubuntu ubuntu  338 Nov 20 15:33 conditional.sh
+-rwxrwxr-x  1 ubuntu ubuntu  108 Nov 20 16:09 continueloop.sh
+-rw-rw-r--  1 ubuntu ubuntu  490 Nov 20 16:24 dummyfile.txt
+-rwxrwxr-x  1 ubuntu ubuntu  160 Nov 20 15:54 forloop.sh
+-rwxrwxr-x  1 ubuntu ubuntu  256 Nov 20 12:32 helloscript.sh
+-rwxrwxr-x  1 ubuntu ubuntu  144 Nov 20 16:30 scriptinput.sh
+-rwxrwxr-x  1 ubuntu ubuntu  107 Nov 20 16:41 stderror.sh
+-rw-rw-r--  1 ubuntu ubuntu    0 Nov 20 16:41 stdout_stderr.txt
+-rwxrwxr-x  1 ubuntu ubuntu   94 Nov 20 15:47 untilloop.sh
+-rwxrwxr-x  1 ubuntu ubuntu   94 Nov 20 15:42 whileloop.sh
