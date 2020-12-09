@@ -23,7 +23,7 @@ function printcheck()
 }
 printcheck
 
-#function variable outside function
+#function, variable outside function
 function inside()
 {
     checkvar="Inside function"
