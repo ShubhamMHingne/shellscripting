@@ -20,3 +20,9 @@
 20-Introduction to awk
 21-Introduction to sed
 22- Debugging bash scripts
+
+
+
+Windows 10
+Linux Ubuntu
+Mac High Sierra
